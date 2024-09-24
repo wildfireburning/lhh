@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lhh&#39;s blog</title>
+    <link>https://wildfireburning.github.io/</link>
+    <description>Recent content on Lhh&#39;s blog</description>
+    <image>
+      <title>Lhh&#39;s blog</title>
+      <url>https://wildfireburning.github.io/img/favicon.jpg</url>
+      <link>https://wildfireburning.github.io/img/favicon.jpg</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 Sep 2024 18:36:22 +0800</lastBuildDate>
+    <atom:link href="https://wildfireburning.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP8266-01S驱动SHT40温湿度传感器</title>
+      <link>https://wildfireburning.github.io/posts/esp8266-01s%E9%A9%B1%E5%8A%A8sht40%E6%B8%A9%E6%B9%BF%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8/</link>
+      <pubDate>Tue, 24 Sep 2024 18:36:22 +0800</pubDate>
+      <guid>https://wildfireburning.github.io/posts/esp8266-01s%E9%A9%B1%E5%8A%A8sht40%E6%B8%A9%E6%B9%BF%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8/</guid>
+      <description>被DHT11坑了，这一次我要夺回失去的一切🥹</description>
+    </item>
+    <item>
+      <title>ESP8266网页显示温湿度曲线</title>
+      <link>https://wildfireburning.github.io/posts/esp8266%E7%BD%91%E9%A1%B5%E6%98%BE%E7%A4%BA%E6%B8%A9%E6%B9%BF%E5%BA%A6/</link>
+      <pubDate>Mon, 23 Sep 2024 02:52:02 +0800</pubDate>
+      <guid>https://wildfireburning.github.io/posts/esp8266%E7%BD%91%E9%A1%B5%E6%98%BE%E7%A4%BA%E6%B8%A9%E6%B9%BF%E5%BA%A6/</guid>
+      <description>一个小小的项目，记录一下🤗</description>
+    </item>
+  </channel>
+</rss>
